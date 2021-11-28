@@ -1,5 +1,6 @@
 title: <p align="center"> Vipul Fande </p>
 logo : <center><img src="assets/img/logo.png"/></center>
+logo1 :![myimage]("assets/img/logo.png"){:class="img-responsive"}
 
 
 description:
